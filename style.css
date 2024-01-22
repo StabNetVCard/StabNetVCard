@@ -1,0 +1,192 @@
+
+.body{
+    background-color: black;
+}
+.logo{
+    border: none;
+    border-radius: 5px;
+    font-size: 50px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 550px;
+}
+.shop
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.drivers
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.support
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.login
+{
+    
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 200px;
+}
+.vcard
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 200px;
+}
+.member
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.game
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+
+}
+
+.download
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.what{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.how
+{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 120px;
+}
+.join
+{
+    border-color: green;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.gift
+{
+    border-color: green;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.center
+{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+}
+.member:hover
+{
+    color: lightgreen;
+}
+.game:hover
+{
+    color: lightgreen;
+}
+.download:hover
+{
+    color: lightgreen;
+}
+.how:hover
+{
+    color: lightgreen;
+}
+.what:hover
+{
+    color: lightgreen;
+}
+.join:hover
+{
+color: green;
+}
+.gift:hover
+{
+    color: green;
+}
+.shop:hover
+{
+    color: lightgreen;
+}
+.drivers:hover
+{
+    color: lightgreen;
+}
+
+.support:hover
+{
+    color: lightgreen;
+}
+
+.login:hover
+{
+    color: lightgreen;
+}
